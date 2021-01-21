@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rates>
+  <forex symbol="CAD" rate="1.7365039576" name="Canadian Dollar" loc="Canada"/>
+  <forex symbol="HKD" rate="10.5917821212" name="Hong Kong Dollar" loc="Hong Kong"/>
+  <forex symbol="USD" rate="1.3663719612" name="US Dollar" loc="United States, American Samoa, British Virgin Islands, Ecuador, El Salvador, Guam, East Timor, Marshall Islands, Federated States of Micronesia, Palau, Northern Mariana Islands, Puerto Rico, Turks and Caicos Islands, Virgin Islands, British Indian Ocean Territory, Bonaire, Saint Eustatius and Saba"/>
+  <forex symbol="PHP" rate="65.6278581349" name="Philippine Peso" loc="Philippines"/>
+  <forex symbol="DKK" rate="8.3987669794" name="Danish Krone" loc="Denmark, Greenland"/>
+  <forex symbol="HUF" rate="403.5319490081" name="Hungarian Forint" loc="Hungary"/>
+  <forex symbol="AUD" rate="1.7689102673" name="Australian Dollar" loc="Australia, Christmas Island, Cocos (Keeling) Islands, Nauru, Norfolk Island, Heard Island and McDonald Islands"/>
+  <forex symbol="SEK" rate="11.4475571062" name="Swedish Krona" loc="Sweden"/>
+  <forex symbol="INR" rate="99.7798177569" name="Indian Rupee" loc="India"/>
+  <forex symbol="BRL" rate="7.2705305827" name="Brazilian Real" loc="Brazil"/>
+  <forex symbol="RUB" rate="100.5894109278" name="Russian Ruble" loc="Russia"/>
+  <forex symbol="JPY" rate="141.8425301763" name="Japanese Yen" loc="Japan"/>
+  <forex symbol="THB" rate="41.0047085126" name="Thai Baht" loc="Thailand"/>
+  <forex symbol="CHF" rate="1.2169867778" name="Swiss Franc" loc="Switzerland, Liechtenstein"/>
+  <forex symbol="EUR" rate="1.1291397085" name="Euro" loc="Netherlands, Andorra, Belgium, Spain, Guadeloupe, Ireland, Italy, Austria, Greece, Cyprus, Latvia, Lithuania, Luxembourg, Malta, Martinique, Mayotte, Monaco, Portugal, France, French Guiana, Reunion Eastern, Saint Pierre and Miquelon, Germany, San Marino, Slovakia, Slovenia, Finland, Holy See (Vatican City), Estonia, French Southern and Antarctic Lands, Montenegro, Saint Barthelemy, Kosovo, Åland Islands, Saint Martin"/>
+  <forex symbol="TRY" rate="10.1747908269" name="Turkish Lira" loc="Turkey"/>
+  <forex symbol="CNY" rate="8.8402606054" name="Chinese Yuan Renminbi" loc="China"/>
+  <forex symbol="NOK" rate="11.6561092104" name="Norwegian Krone" loc="Norway, Svalbard, Bouvet Island"/>
+  <forex symbol="NZD" rate="1.9155855154" name="New Zealand Dollar" loc="New Zealand, Niue, Pitcairn Islands, Tokelau"/>
+  <forex symbol="ZAR" rate="20.4488330341" name="South African Rand" loc="South Africa"/>
+  <forex symbol="MXN" rate="26.8417962354" name="Mexican Peso" loc="Mexico"/>
+  <forex symbol="SGD" rate="1.812720888" name="Singapore Dollar" loc="Singapore"/>
+  <forex symbol="GBP" rate="1" name="Pound Sterling" loc="United Kindom, South Georgia and South Sandwich Islands"/>
+  <forex symbol="MYR" rate="5.5270259589" name="Malaysian Ringgit" loc="Malaysia"/>
+</rates>

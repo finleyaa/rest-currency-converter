@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<currencies>
+	<currency live="1" name="Australian Dollar" symbol="AUD" loc="Australia, Christmas Island, Cocos (Keeling) Islands, Nauru, Norfolk Island, Heard Island and McDonald Islands"/>
+	<currency live="1" name="Brazilian Real" symbol="BRL" loc="Brazil"/>
+	<currency live="1" name="Canadian Dollar" symbol="CAD" loc="Canada"/>
+	<currency live="1" name="Swiss Franc" symbol="CHF" loc="Switzerland, Liechtenstein"/>
+	<currency live="1" name="Chinese Yuan Renminbi" symbol="CNY" loc="China"/>
+	<currency live="1" name="Danish Krone" symbol="DKK" loc="Denmark, Greenland"/>
+	<currency live="1" name="Euro" symbol="EUR" loc="Netherlands, Andorra, Belgium, Spain, Guadeloupe, Ireland, Italy, Austria, Greece, Cyprus, Latvia, Lithuania, Luxembourg, Malta, Martinique, Mayotte, Monaco, Portugal, France, French Guiana, Reunion Eastern, Saint Pierre and Miquelon, Germany, San Marino, Slovakia, Slovenia, Finland, Holy See (Vatican City), Estonia, French Southern and Antarctic Lands, Montenegro, Saint Barthelemy, Kosovo, Åland Islands, Saint Martin"/>
+	<currency live="1" name="Pound Sterling" symbol="GBP" loc="United Kindom, South Georgia and South Sandwich Islands"/>
+	<currency live="1" name="Hong Kong Dollar" symbol="HKD" loc="Hong Kong"/>
+	<currency live="1" name="Hungarian Forint" symbol="HUF" loc="Hungary"/>
+	<currency live="1" name="Indian Rupee" symbol="INR" loc="India"/>
+	<currency live="1" name="Japanese Yen" symbol="JPY" loc="Japan"/>
+	<currency live="1" name="Mexican Peso" symbol="MXN" loc="Mexico"/>
+	<currency live="1" name="Malaysian Ringgit" symbol="MYR" loc="Malaysia"/>
+	<currency live="1" name="Norwegian Krone" symbol="NOK" loc="Norway, Svalbard, Bouvet Island"/>
+	<currency live="1" name="New Zealand Dollar" symbol="NZD" loc="New Zealand, Niue, Pitcairn Islands, Tokelau"/>
+	<currency live="1" name="Philippine Peso" symbol="PHP" loc="Philippines"/>
+	<currency live="1" name="Russian Ruble" symbol="RUB" loc="Russia"/>
+	<currency live="1" name="Swedish Krona" symbol="SEK" loc="Sweden"/>
+	<currency live="1" name="Singapore Dollar" symbol="SGD" loc="Singapore"/>
+	<currency live="1" name="Thai Baht" symbol="THB" loc="Thailand"/>
+	<currency live="1" name="Turkish Lira" symbol="TRY" loc="Turkey"/>
+	<currency live="1" name="US Dollar" symbol="USD" loc="United States, American Samoa, British Virgin Islands, Ecuador, El Salvador, Guam, East Timor, Marshall Islands, Federated States of Micronesia, Palau, Northern Mariana Islands, Puerto Rico, Turks and Caicos Islands, Virgin Islands, British Indian Ocean Territory, Bonaire, Saint Eustatius and Saba"/>
+	<currency live="1" name="South African Rand" symbol="ZAR" loc="South Africa"/>
+	<currency live="0" name="Bulgarian Lev" symbol="BGN" loc="Bulgaria"/>
+	<currency live="0" name="Czech Koruna" symbol="CZK" loc="Czechia"/>
+	<currency live="0" name="Croatian Kuna" symbol="HRK" loc="Croatia"/>
+	<currency live="0" name="Indonesian Rupiah" symbol="IDR" loc="Indonesia"/>
+	<currency live="0" name="Israeli Shekel" symbol="ILS" loc="Israel"/>
+	<currency live="0" name="Icelandic Krona" symbol="ISK" loc="Iceland"/>
+	<currency live="0" name="South Korean Won" symbol="KRW" loc="Korea (The Republic Of)"/>
+	<currency live="0" name="Polish Zloty" symbol="PLN" loc="Poland"/>
+	<currency live="0" name="Romanian Leu" symbol="RON" loc="Romania"/>
+</currencies>

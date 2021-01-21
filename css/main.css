@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Montserrat", Courier, monospace;
+}
+
+body {
+    margin: 20px;
+}
+
+h1 {
+    color: green;
+    margin-bottom: 30px;
+}
+
+#ajax_form div {
+    margin: 20px 0;
+}
+
+button {
+    padding: 12px 30px;
+    font-size: 16px;
+    border: none;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
+
+input[type="radio"] {
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+label {
+    font-weight: bold;
+    padding-right: 10px;
+}
+
+#response_div {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#response_div label {
+    padding-bottom: 10px;
+}
+
+textarea {
+    display: block;
+    font-family: "Courier New", Courier, monospace;
+}
